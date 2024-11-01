@@ -33,7 +33,7 @@
 
 ###
 
-<h1 align="center">hey there 👋  I'm <style  class="text-color:aqua ">SUBHENDU MANDAL</style></h1>
+<h1 align="center">hey there 👋  I'm SUBHENDU MANDAL</h1>
 
 ###
 
