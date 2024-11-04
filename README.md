@@ -30,11 +30,20 @@
   <a href="https://www.linkedin.com/in/subhendu-mandal-523009308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://x.com/SubhenduM28499"  target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-00A84C?style=for-the-badge&logo=x&logoColor=ffffff" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/s_u_b_h_e_n_d_u_._07/"  target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-00A84C?style=for-the-badge&logo=instagram&logoColor=ffffff">
+  </a>
+  <a href="https://www.facebook.com/Subhendu.Mandal.07" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff" >
+  </a>
 </div>
 
  <hr/>
 
-<h3 align="left">Languages and Tools:</h3>
+### Technical Skills  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20">
 
 
 <div >
@@ -46,16 +55,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhendu-07&theme=react" alt="Subhendu-07" />
     <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Subhendu-07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Subhendu-07" />
+     <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhendu-07&theme=react" alt="Subhendu-07" />
     <br/>
     <br/>
-    <img width=320 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Subhendu-07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<hr/>
+[![Subhendu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhendu-07&bg_color=transparent&title_color=ffffff&theme=github-compact&hide_border=false#gh-dark-mode-only)](https://github.com/Subhendu-07#gh-dark-mode-only)
+
+<!-- Light Mode -->
+
+[![Subhendu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhendu-07&bg_color=transparent&title_color=000000&theme=github-compact&hide_border=false#gh-light-mode-only)](https://github.com/Subhendu-07#gh-light-mode-only)
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Subhendu-07&label=Profile%20views&color=16DB65&style=flat&width=50px" alt="Subhendu-07" /> </p>
+<p style="font-weight: bold; font-size: 20px">Thanks for visiting..</p>
+</div>
 
