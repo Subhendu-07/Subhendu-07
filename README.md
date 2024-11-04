@@ -38,9 +38,9 @@
 
 
 <div >
-  <img  src="https://skillicons.dev/icons?i=javascript,python,c,php" />
+  <img  src="https://skillicons.dev/icons?i=python,c,javascript,php" />
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img  src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css," />
+<img  src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap," />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
