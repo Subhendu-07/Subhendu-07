@@ -24,20 +24,20 @@
 
 <div align="center"> 
 <h2 align="left">Connect with me</h2>
-  <a href="mailto:mandalsubhendu243@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/subhendu-mandal-523009308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="mailto:mandalsubhendu243@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://x.com/SubhenduM28499"  target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-00A84C?style=for-the-badge&logo=x&logoColor=ffffff" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-59B2F4?style=for-the-badge&logo=x&logoColor=ffffff" target="_blank">
   </a>
   <a href="https://www.instagram.com/s_u_b_h_e_n_d_u_._07/"  target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/Instagram-dc2743?style=for-the-badge&logo=instagram&logoColor=ffffff ">
   </a>
   <a href="https://www.facebook.com/Subhendu.Mandal.07" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff" >
+      <img src="https://img.shields.io/badge/Facebook-0000ff?style=for-the-badge&logo=facebook&logoColor=ffffff" >
   </a>
 </div>
 
