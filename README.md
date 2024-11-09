@@ -18,11 +18,14 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **mandalsubhendu243@gmail.com**
+  <br/>
+  <br/>
+  <br/>
 
 
   <div align="center" style="display: flex; align-items: center; gap: 15px; margin: 50px 10px;">
   <a href="https://subhendumandal.vercel.app/" target="_blank" style="text-decoration: none; font-weight: bold; color: #16db65; font-size: 20px;">Visit my portfolio</a>
-<!--   <img src="link.png" alt="Portfolio Image" style="height: auto; max-width: 100px;"> -->
+  <img src="link.png" alt="Portfolio Image" style="height: auto; max-width: 100px;"> 
 </div>
 
 
