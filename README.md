@@ -32,7 +32,7 @@
 
 
 <div align="center"> 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">CONNECT WITH ME :</h2>
   <a href="https://www.linkedin.com/in/subhendu-mandal-523009308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
