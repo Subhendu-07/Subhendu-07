@@ -74,7 +74,7 @@
 
 <!-- Light Mode -->
 
-[![Subhendu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhendu-07&bg_color=transparent&title_color=000000&theme=github-compact&hide_border=false#gh-light-mode-only)](https://github.com/Subhendu-07#gh-light-mode-only)
+[![Subhendu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhendu-07&bg_color=000000&title_color=000000&theme=github-compact&hide_border=false#gh-light-mode-only)](https://github.com/Subhendu-07#gh-light-mode-only)
 
 <br>
 
