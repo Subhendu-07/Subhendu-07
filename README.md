@@ -59,7 +59,11 @@
 <div >
   <img  src="https://skillicons.dev/icons?i=python,c,javascript,php" /> <br/> 
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img  src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap,figma" /><br/>
+<img  src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap," /><br/>
+    <img  src="https://skillicons.dev/icons?i=react,vite,git,figma" /><br/>
+    
+<!--      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img  src="https://skillicons.dev/icons?i=figma,git," /><br/> -->
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
