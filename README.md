@@ -72,6 +72,9 @@
      <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhendu-07&theme=react" alt="Subhendu-07" />
     <br/>
     <br/>
+    <img width=320 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Subhendu-07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <br/>
+    <br/>
 
 [![Subhendu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhendu-07&bg_color=transparent&title_color=ffffff&theme=github-compact&hide_border=false#gh-dark-mode-only)](https://github.com/Subhendu-07#gh-dark-mode-only)
 
