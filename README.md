@@ -7,9 +7,9 @@
 <h3 align="center">A passionate Frontend Developer from India❤️</h3><br/><br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="padding-top: 5px;">
 
-- 🔭 I’m currently working on [Portfolio ](https://github.com/Subhendu-07/)
+- 🔭 I’m currently working on [Portfolio ](https://subhendumandal.vercel.app/)
 
-- 🌱 I’m currently learning **javascript and php**
+- 🌱 I’m currently learning **Javascript and Node.js**
 
 - 👯 I’m looking to collaborate on **Github Actions**
 
