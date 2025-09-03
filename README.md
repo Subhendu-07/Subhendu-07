@@ -1,10 +1,10 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+SUBHENDU+MANDAL;+Frontend+Developer;+UI/UX+Designer;+Open+Source+Contributor;+From+INDIA❤️" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+SUBHENDU+MANDAL;+Full-Stack+Developer;+UI/UX+Designer;+Open+Source+Contributor;+From+INDIA❤️" />
 </h1>
 
 
-<h3 align="center">A passionate Frontend Developer from India❤️</h3><br/><br/>
+<h3 align="center">A passionate Full-Stack Developer from India❤️</h3><br/><br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="padding-top: 5px;">
 
 - 🔭 I’m currently working on [Portfolio ](https://subhendumandal.vercel.app/)
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Github Actions**
 
 
-- 👨‍💻 All of my projects are available at....
+- 👨‍💻 All of my projects are available at [Click here to get the projects](https://subhendumandal.vercel.app/)
 
 - 💬 Ask me about **anything**
 
@@ -57,12 +57,10 @@
 
 
 <div >
-  <img  src="https://skillicons.dev/icons?i=python,c,javascript" /> <br/> 
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<img  src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap," /><br/>
-    <img  src="https://skillicons.dev/icons?i=react,vite,git,figma," /><br/>
-<!--          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <img  src="https://skillicons.dev/icons?i=figma,git," /><br/>  -->
+  <img  src="https://skillicons.dev/icons?i=python,c,javascript" /> <br/>
+<img  src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux,vite" /><br/>
+    <img  src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql" /><br/>
+    <img  src="https://skillicons.dev/icons?i=git,figma,googlecloud,aws" /><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
