@@ -89,11 +89,16 @@
 [![Subhendu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhendu-07&bg_color=000000&title_color=ffffff&theme=github-compact&hide_border=false#gh-light-mode-only)](https://github.com/Subhendu-07#gh-light-mode-only)
 
 <br>
-<!-- Snake Game Repo View -->
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Subhendu-07/Subhendu-07/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Subhendu-07/Subhendu-07/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+<!-- Snake Game Repo View 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+-->
 
 <p style="font-weight: bold; font-size: 20px">Thanks for visiting..</p>
 </div>
