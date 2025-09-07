@@ -58,9 +58,9 @@
 
 <div >
   <img  src="https://skillicons.dev/icons?i=python,c,javascript" /> <br/>
-<img  src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux,vite" /><br/>
-    <img  src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql" /><br/>
-    <img  src="https://skillicons.dev/icons?i=git,figma,googlecloud,aws" /><br/>
+<img  src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nextjs,react,redux,vite" /><br/>
+    <img  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/>
+    <img  src="https://skillicons.dev/icons?i=git,figma" /><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
