@@ -32,6 +32,7 @@
 
 
   <div align="center" style="display: flex; align-items: center; gap: 15px; margin: 50px 10px;">
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Subhendu-07&label=Profile%20views&color=16DB65&style=flat&width=50px" alt="Subhendu-07" /> </p>
   <a href="https://subhendumandal.vercel.app/" target="_blank" style="text-decoration: none; font-weight: bold; color: #16db65; font-size: 20px;">Visit my portfolio</a>
   <img src="link.png" alt="Portfolio Image" style="height: auto; max-width: 100px;"> 
 </div>
@@ -88,8 +89,12 @@
 [![Subhendu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhendu-07&bg_color=000000&title_color=ffffff&theme=github-compact&hide_border=false#gh-light-mode-only)](https://github.com/Subhendu-07#gh-light-mode-only)
 
 <br>
+<!-- Snake Game Repo View -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Subhendu-07&label=Profile%20views&color=16DB65&style=flat&width=50px" alt="Subhendu-07" /> </p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <p style="font-weight: bold; font-size: 20px">Thanks for visiting..</p>
 </div>
 
