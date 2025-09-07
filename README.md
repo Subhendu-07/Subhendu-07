@@ -1,4 +1,10 @@
-<p><img align="center" src="https://user-images.githubusercontent.com/48355572/205911047-018378cb-c2e9-4a19-9d0a-0c3f6b559c42.png" alt="Subhendu-07" /></p>
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/48355572/205911047-018378cb-c2e9-4a19-9d0a-0c3f6b559c42.png" 
+    alt="Subhendu-07" 
+    height="150" />
+</p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+SUBHENDU+MANDAL;+Full-Stack+Developer;+UI/UX+Designer;+Open+Source+Contributor;+From+INDIA❤️" />
