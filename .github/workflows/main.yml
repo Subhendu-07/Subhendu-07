@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Allows pushing changes
+  contents: write
 
 jobs:
   generate:
@@ -14,21 +14,19 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false  # Prevents using GITHUB_TOKEN
 
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@master
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Subhendu-07
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake SVG to Output Branch
+      - name: Push Snake SVG to output branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output || git checkout output
+          git checkout -B output
           mv dist/github-contribution-grid-snake.svg .
           git add github-contribution-grid-snake.svg
-          git commit -m "Generated new snake animation" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git output
+          git commit -m "update snake animation" || echo "no changes"
+          git push origin output --force
